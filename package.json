@@ -1,0 +1,19 @@
+{
+  "name": "sample_analitycs",
+  "version": "1.0.0",
+  "description": "Another boring project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreggX/sample_analitycs.git"
+  },
+  "author": "NaH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreggX/sample_analitycs/issues"
+  },
+  "homepage": "https://github.com/GreggX/sample_analitycs#readme"
+}
